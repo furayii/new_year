@@ -1,0 +1,12 @@
+body{
+    background-color: blue;
+    font-family: Monospace;
+    text-align: center;
+    border: thick double gold;
+    color: white;
+}
+img{
+    width: 70%;
+    height: 90%;
+    border-radius: 10px
+}
